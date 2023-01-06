@@ -4,4 +4,4 @@ Wisk is a CLI Tool to build all the boilerplate files for a Custom Wordpress The
 
 ## Install Instructions
 
-Install with pip: pip install wp-tdk
+Install with: pip install wp-tdk
